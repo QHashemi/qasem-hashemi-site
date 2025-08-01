@@ -1,0 +1,6 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/(public)/page": "/",
+  "/adminlayout/page": "/adminlayout",
+  "/(public)/projects/page": "/projects"
+}
